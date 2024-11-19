@@ -12,7 +12,7 @@
 - [Write a program to find the Area of Circle](/src/area_of_circle/AreaOfCircle.java)
 - [Write a program to find the Area of Triangle](/src/area_of_triangle/AreaOfTriangle.java)
 - [Write a program to find the Area of Triangle](/src/area_of_triangle/AreaOfTriangle.java)
-- [Write a program to find the simple Interest](/src/interest_calculate/InterestCalculate.java)
+- [Write a program to find the simple Interest](/src/Interest_calculate/InterestCalculate.java)
 
 
 ## Extra
