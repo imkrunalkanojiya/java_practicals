@@ -1,4 +1,4 @@
-package Interest_calculate;
+package module1;
 
 public class InterestCalculate {
 

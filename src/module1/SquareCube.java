@@ -1,4 +1,4 @@
-package square_cube;
+package module1;
 
 public class SquareCube {
 	public static void main(String[] args) {

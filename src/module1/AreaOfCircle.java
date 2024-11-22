@@ -1,4 +1,4 @@
-package area_of_circle;
+package module1;
 
 public class AreaOfCircle {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package printvalue;
+package module1;
 
 public class PrintValue {
 	public static void main(String[] args) {

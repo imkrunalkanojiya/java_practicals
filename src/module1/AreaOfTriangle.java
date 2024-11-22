@@ -1,4 +1,4 @@
-package area_of_triangle;
+package module1;
 
 public class AreaOfTriangle {
 	public static void main(String[] args) {
@@ -16,3 +16,4 @@ public class AreaOfTriangle {
 	}
 
 }
+

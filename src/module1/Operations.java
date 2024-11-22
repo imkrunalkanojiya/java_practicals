@@ -1,4 +1,4 @@
-package operations;
+package module1;
 
 public class Operations {
 	public static void main(String[] args) {
