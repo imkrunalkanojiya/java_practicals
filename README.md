@@ -33,6 +33,7 @@ number](/src/module1/Fibonacci.java)
 ### Object Oriented Programming 
 
 - [Write a program to demostrate encapsulation (OOP Concept)](/src/encapsulation/Main.java)
+- [Write a program to demostrate inheritence (OOP Concept)](/src/inheritence/Main.java)
 
 ## Contribution
 
