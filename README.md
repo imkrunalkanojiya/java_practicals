@@ -29,11 +29,15 @@ number](/src/module1/Fibonacci.java)
 - [Write a program of to find out is Leap Year](/src/module1/LeapYear.java)
 - [Write a program of static method](/src/module1/StaticMethod.java)
 - [Write a program of static block](/src/module1/StaticBlock.java)
+- [Write a program to demostrate Interface](/src/module1/Interface.java)
 
 ### Object Oriented Programming 
 
 - [Write a program to demostrate encapsulation (OOP Concept)](/src/encapsulation/Main.java)
 - [Write a program to demostrate inheritence (OOP Concept)](/src/inheritence/Main.java)
+- [Write a program to demostrate Multiple Inheritance](/src/inheritence/MultipleInheritence.java)
+- [Write a program to demostrate Hybrid Inheritance](/src/inheritence/HybridInheritence.java)
+- [Write a program to demostrate Super Keyword in method](/src/inheritence/SuperKeywordEx.java)
 
 ## Contribution
 
