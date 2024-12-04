@@ -39,9 +39,20 @@ number](/src/module1/Fibonacci.java)
 - [Write a program to demostrate Hybrid Inheritance](/src/inheritence/HybridInheritence.java)
 - [Write a program to demostrate Super Keyword in method](/src/inheritence/SuperKeywordEx.java)
 
+### String Buffer & Builder
+
+- [Write a program to demostrate string concatination](/src/string_buffer_builder/StringConcatination.java)
+- [Write a program to demostrate string comparision](/src/string_buffer_builder/StringEquals.java)
+- [Write a program to demostrate string operations](/src/string_buffer_builder/StringOperations.java)
+- [Write a program to demostrate string types](/src/string_buffer_builder/TypeOfStrings.java)
+- [Write a program to demostrate string replace method](/src/string_buffer_builder/StringReplace.java)
+
+
 ### Mini Project
 
-[Number Operation System](/src/extra/NumberOperationSystem.java)
+- [Number Operation System](/src/extra/NumberOperationSystem.java)
+- [Simple Login Form using JFrame](/src/jframe/StudentRegistrationForm.java)
+
 
 ## Contribution
 
