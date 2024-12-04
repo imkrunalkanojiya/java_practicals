@@ -60,6 +60,8 @@ Feel free to modify this repo, either clone this repo or just make it your.
 
 ![gif](https://media.giphy.com/media/gTURHJs4e2Ies/giphy.gif)
 
+<a href="https://www.buymeacoffee.com/krunalkanojiya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 ## Promotion
 
 If you like this types of content, Feel free to checkout [TechAlgoSpotlight](https://techalgospotlight.com) Where i am writing article regularly with funky way 😅
