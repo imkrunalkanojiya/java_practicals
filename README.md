@@ -1,6 +1,6 @@
 # Java Programs With Examples
 
-## Module 1
+## Programs
 
 - [Write a program to display user information](/src/module1/PrintValue.java)
 - [Write a program to calculate the operations](/src/module1/Operations.java)
