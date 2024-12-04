@@ -50,7 +50,7 @@ number](/src/module1/Fibonacci.java)
 
 ### Mini Project
 
-- [Number Operation System](/src/extra/NumberOperationSystem.java)
+- [Number Operation System](/src/extra/NumberOperationsSystem.java)
 - [Simple Login Form using JFrame](/src/jframe/StudentRegistrationForm.java)
 
 
