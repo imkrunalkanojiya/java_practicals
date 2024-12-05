@@ -10,9 +10,9 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPasswordField;
 import javax.swing.JTextField;
-import javax.swing.JOptionPane;
+import java.io.FileOutputStream;
 
-public class StudentRegistrationForm {
+public class LoginSaveInText {
 
 	JFrame mainFrame;
 	FontMetrics fm;
@@ -22,13 +22,8 @@ public class StudentRegistrationForm {
 	JTextField studentName;
 	JLabel studentPasswordLabel;
 	JPasswordField studentPassword;
-
-	// Demo Login
-	String username = "demo";
-	String password = "password";
 	
-	
-	public StudentRegistrationForm() {
+	public LoginSaveInText() {
 		
 		// Defining Elements
 		mainFrame = new JFrame();
@@ -38,6 +33,7 @@ public class StudentRegistrationForm {
 		studentName = new JTextField(10);
 		studentPasswordLabel = new JLabel();
 		studentPassword = new JPasswordField(10);
+		
 		// Creating Layout/Frame
 		mainFrame.setSize(414,600);
 		mainFrame.setLayout(null);
@@ -74,7 +70,6 @@ public class StudentRegistrationForm {
 		
 		
 		//Login Method
-		
 		submitBtn.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				handleSubmit();
@@ -82,26 +77,25 @@ public class StudentRegistrationForm {
 		});
 	}
 	
-	public void handleSubmit() {
-		String enteredUsername = new String(studentName.getText());
-		String enteredPassword = new String(studentPassword.getPassword());
+	public void handleSubmit(){
 		
+		String password = new String(studentPassword.getPassword());
 		
+		String details = studentName.getText() + " " + password;
 		
-		if(studentName.equals(username)) {
-			if(studentPassword.equals(password)) {
-				JOptionPane.showMessageDialog(mainFrame,"Login Succesfull!","Success",JOptionPane.INFORMATION_MESSAGE);
-			}else {
-				JOptionPane.showMessageDialog(mainFrame,"Invalid Credentials","Error",JOptionPane.ERROR_MESSAGE);
-			}
-		}else {
-			JOptionPane.showMessageDialog(mainFrame,"Invalid Credentials","Error",JOptionPane.ERROR_MESSAGE);
+		try {
+			FileOutputStream fos = new FileOutputStream("/Users/krunalkanojiya/git/java_practicals/src/jframe/sapna.txt");
+			fos.write(details.getBytes());
+			fos.close();
+		} catch (Exception e) {
+			
 		}
+
 	}
 	
-	public static void main(String[] args) throws Exception{
+	public static void main(String[] args) throws Exception {
 		
-		new StudentRegistrationForm();
+		new LoginSaveInText();
 		
 	}
 
