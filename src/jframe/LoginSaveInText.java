@@ -12,7 +12,9 @@ import javax.swing.JPasswordField;
 import javax.swing.JTextField;
 import java.io.FileOutputStream;
 
-public class LoginSaveInText {
+import java.io.Serializable;
+
+public class LoginSaveInText implements Serializable {
 
 	JFrame mainFrame;
 	FontMetrics fm;
