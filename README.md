@@ -13,8 +13,7 @@
 - [Write a Program to print the 51 to 60 using while loop](/src/module1/Whileloop.java)
 - [Write a program to print the 100 to 81 using do..while loop](/src/module1/Do_whileloop.java)
 - [Write a program you have to find the factorial of given number (5!=5*4*3*2*1)](/src/module1/Factorial.java)
-- [Write a program you have to print the Fibonacci series up to user given
-number](/src/module1/Fibonacci.java)
+- [Write a program you have to print the Fibonacci series up to user given number](/src/module1/Fibonacci.java)
 - [Write a program you have to print the table of given number.](/src/module1/PrintTable.java)
 - [Write a program to print the number in reverse order.](/src/module1/ReverseNumber.java)
 - [Write a program to find out the max from given number (E.g. No: -1562 Max number is 6 )](/src/module1/MaxDigit.java)
@@ -29,24 +28,29 @@ number](/src/module1/Fibonacci.java)
 - [Write a program of to find out is Leap Year](/src/module1/LeapYear.java)
 - [Write a program of static method](/src/module1/StaticMethod.java)
 - [Write a program of static block](/src/module1/StaticBlock.java)
-- [Write a program to demostrate Interface](/src/module1/Interface.java)
+- [Write a program to demonstrate Interface](/src/module1/Interface.java)
 
 ### Object Oriented Programming 
 
-- [Write a program to demostrate encapsulation (OOP Concept)](/src/encapsulation/Main.java)
-- [Write a program to demostrate inheritence (OOP Concept)](/src/inheritence/Main.java)
-- [Write a program to demostrate Multiple Inheritance](/src/inheritence/MultipleInheritence.java)
-- [Write a program to demostrate Hybrid Inheritance](/src/inheritence/HybridInheritence.java)
-- [Write a program to demostrate Super Keyword in method](/src/inheritence/SuperKeywordEx.java)
+- [Write a program to demonstrate encapsulation (OOP Concept)](/src/encapsulation/Main.java)
+- [Write a program to demonstrate inheritance (OOP Concept)](/src/inheritence/Main.java)
+- [Write a program to demonstrate Multiple Inheritance](/src/inheritence/MultipleInheritence.java)
+- [Write a program to demonstrate Hybrid Inheritance](/src/inheritence/HybridInheritence.java)
+- [Write a program to demonstrate Super Keyword in method](/src/inheritence/SuperKeywordEx.java)
 
 ### String Buffer & Builder
 
-- [Write a program to demostrate string concatination](/src/string_buffer_builder/StringConcatination.java)
-- [Write a program to demostrate string comparision](/src/string_buffer_builder/StringEquals.java)
-- [Write a program to demostrate string operations](/src/string_buffer_builder/StringOperations.java)
-- [Write a program to demostrate string types](/src/string_buffer_builder/TypeOfStrings.java)
-- [Write a program to demostrate string replace method](/src/string_buffer_builder/StringReplace.java)
+- [Write a program to demonstrate string concatination](/src/string_buffer_builder/StringConcatination.java)
+- [Write a program to demonstrate string comparision](/src/string_buffer_builder/StringEquals.java)
+- [Write a program to demonstrate string operations](/src/string_buffer_builder/StringOperations.java)
+- [Write a program to demonstrate string types](/src/string_buffer_builder/TypeOfStrings.java)
+- [Write a program to demonstrate string replace method](/src/string_buffer_builder/StringReplace.java)
 
+### Threading in Java
+- [Write a program to demonstrate threading using inheritance](/src/threads/ThreadUsingInheritense.java);
+- [Write a program to demonstrate runnable using interface](/src/threads/RunnableUsingInterface.java);
+- [Write a program to demonstrate threading using synchronization using inheritance](/src/threads/SyncMethodExample1.java);
+- [Write a program to demonstrate threading using synchronization using interface](/src/threads/SyncMethodExample2.java);
 
 ### Mini Project
 
