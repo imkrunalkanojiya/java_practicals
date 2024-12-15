@@ -57,6 +57,7 @@
 - [Number Operation System](/src/extra/NumberOperationsSystem.java)
 - [Simple Login Form using JFrame](/src/jframe/StudentRegistrationForm.java)
 - [Monero XMR CPU miner using JFrame](https://github.com/imkrunalkanojiya/Monero-miner-gui)
+- [Notepad](https://github.com/imkrunalkanojiya/notepad-jframe)
 
 ## Contribution
 
