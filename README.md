@@ -1,5 +1,7 @@
 # Java Programs With Examples
 
+![java](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGRzcTl1bnljYTF6N2liOXAxbHA2dnE4MDk1bHZqM3Q3dWc5dDdrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/250Jtoi8LlvIk/giphy.gif)
+
 ## Programs
 
 - [Write a program to display user information](/src/module1/PrintValue.java)
