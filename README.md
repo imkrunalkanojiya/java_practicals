@@ -54,7 +54,7 @@
 
 ### Exception Handling
 
-- [write a program to demonstrate ATM Machine. (Mini CLI Project)](/src/execption/ATMMachine.java);
+- [Write a program to demonstrate ATM Machine. (Mini CLI Project)](/src/execption/ATMMachine.java);
 
 ### Mini Project
 
@@ -74,3 +74,9 @@ Feel free to modify this repo, either clone this repo or just make it your.
 ## Promotion
 
 If you like this types of content, Feel free to checkout [TechAlgoSpotlight](https://techalgospotlight.com) Where i am writing article regularly with funky way 😅
+
+[![](https://visitcount.itsvg.in/api?id=imkrunalkanojiya&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+
