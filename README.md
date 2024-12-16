@@ -52,6 +52,10 @@
 - [Write a program to demonstrate threading using synchronization using inheritance](/src/threads/SyncMethodExample1.java);
 - [Write a program to demonstrate threading using synchronization using interface](/src/threads/SyncMethodExample2.java);
 
+### Exception Handling
+
+- [write a program to demonstrate ATM Machine. (Mini CLI Project)](/src/execption/ATMMachine.java);
+
 ### Mini Project
 
 - [Number Operation System](/src/extra/NumberOperationsSystem.java)
