@@ -64,6 +64,7 @@
 - [Simple Login Form using JFrame](/src/jframe/StudentRegistrationForm.java)
 - [Monero XMR CPU miner using JFrame](https://github.com/imkrunalkanojiya/Monero-miner-gui)
 - [Notepad](https://github.com/imkrunalkanojiya/notepad-jframe)
+- [JDBC Crud App](https://github.com/imkrunalkanojiya/jdbc-crud-example)
 
 ## Contribution
 
