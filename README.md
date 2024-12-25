@@ -65,6 +65,7 @@
 - [Monero XMR CPU miner using JFrame](https://github.com/imkrunalkanojiya/Monero-miner-gui)
 - [Notepad](https://github.com/imkrunalkanojiya/notepad-jframe)
 - [JDBC Crud App](https://github.com/imkrunalkanojiya/jdbc-crud-example)
+- [Simple Java ORM for MySQL](https://github.com/imkrunalkanojiya/java-orm-with-mysql)
 
 ## Contribution
 
